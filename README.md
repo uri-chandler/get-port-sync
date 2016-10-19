@@ -10,7 +10,7 @@ npm install get-port-sync
 
 ---
 ## Usage
-```
+```javascript
 const getPortSync = require('get-port-sync');
 let   freePort    = null;
 
