@@ -15,7 +15,14 @@ const getPortSync = require('get-port-sync');
 let   freePort    = null;
 
 try       { freePort = getPortSync() }
-catch (e) { // boo                   }
+catch (e) { /* boo */                }
+```
+
+
+---
+## Test
+```
+npm run test
 ```
 
 
