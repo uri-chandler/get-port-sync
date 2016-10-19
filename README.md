@@ -21,8 +21,8 @@ catch (e) { // boo                   }
 
 ---
 ## Related
-* [sindresorhus/get-port](https://github.com/sindresorhus/get-port)     --> the original get-port module
-* [sindresorhus/get-port](https://github.com/sindresorhus/get-port-cli) --> cli for the original get-port module
+* [sindresorhus/get-port](https://github.com/sindresorhus/get-port)         --> the original get-port module
+* [sindresorhus/get-port-cli](https://github.com/sindresorhus/get-port-cli) --> CLI for the original get-port module
 
 
 
