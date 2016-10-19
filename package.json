@@ -13,6 +13,7 @@
   "keywords": ["free", "port", "get-port"],
   "author":{
      "name": "Uri Chandler",
+     "email": "uri@kungfoo.bar",
      "url": "https://blog.kungfoo.bar/"
   },
   "license": "MIT",
