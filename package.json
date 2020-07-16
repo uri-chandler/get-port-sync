@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a synchronous version of sindresorhus/get-port",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "mocha test/**/*.spec.js"
   },
