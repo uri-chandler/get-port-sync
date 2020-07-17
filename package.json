@@ -1,6 +1,6 @@
 {
   "name": "get-port-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a synchronous version of sindresorhus/get-port",
   "main": "index.js",
   "types": "index.d.ts",
