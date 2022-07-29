@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ujc/get-port-sync#readme",
   "dependencies": {
-    "deasync": "^0.1.8",
+    "deasync": "^0.1.27",
     "get-port": "^2.1.0"
   },
   "devDependencies": {
